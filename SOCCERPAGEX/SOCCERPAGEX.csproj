@@ -66,6 +66,9 @@
 	  <MauiXaml Update="Pages\ClubListPage.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
+	  <MauiXaml Update="Pages\Inicio.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
 	  <MauiXaml Update="Pages\JugadorListPage.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>

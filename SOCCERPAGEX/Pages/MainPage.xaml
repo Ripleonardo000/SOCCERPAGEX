@@ -4,7 +4,8 @@
             xmlns:local="clr-namespace:SOCCERPAGEX.Pages"
             x:Class="SOCCERPAGEX.Pages.MainPage">
 
+    <local:Inicio Title="Inicio" />
     <local:ClubListPage Title="Clubes" />
     <local:JugadorListPage Title="Jugadores" />
-
+    
 </TabbedPage>
