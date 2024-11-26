@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace SOCCERPAGEX.Models
 {
-    internal class Liga
+    public class Liga
     {
+        public int Id { get; set; }
+        public string Nombre { get; set; }
+        public List<Club> Clubes { get; set; } = new();
     }
 }

@@ -7,5 +7,7 @@
     <local:Inicio Title="Inicio" />
     <local:ClubListPage Title="Clubes" />
     <local:JugadorListPage Title="Jugadores" />
-    
+    <local:LigaPage Title="Ligas" />
+
+
 </TabbedPage>
